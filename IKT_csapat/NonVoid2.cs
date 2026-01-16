@@ -7,7 +7,8 @@
     /// <returns>The square of num</returns>
     public int Square(int num)
     {
-        // TODO : Implement square calculation
+        // 1. TODO : Implement square calculation
+        
         throw new NotImplementedException();
     }
 
@@ -20,7 +21,7 @@
     /// <returns>The sum of num1, num2, and num3</returns>
     public int SumThree(int num1, int num2, int num3)
     {
-        // TODO : Implement sum of three numbers
+        // 2. TODO : Implement sum of three numbers
         throw new NotImplementedException();
     }
 
@@ -32,7 +33,7 @@
     /// <returns>The smaller value</returns>
     public int Smaller(int num1, int num2)
     {
-        // TODO : Implement minimum comparison
+        // 3. TODO : Implement minimum comparison
         throw new NotImplementedException();
     }
 
@@ -48,7 +49,7 @@
     public string FortuneCookie()
     {
         int num = new Random().Next(0, 5);
-        // TODO : Return fortune cookie response based on random number
+        // 4. TODO : Return fortune cookie response based on random number
         throw new NotImplementedException();
     }
 
@@ -63,7 +64,7 @@
     /// <returns>A string response</returns>
     public string Season(int month)
     {
-        // TODO : Return season based on month value
+        // 5. TODO : Return season based on month value
         throw new NotImplementedException();
     }
 
@@ -76,7 +77,7 @@
     /// <returns>The string "even" or the string "odd"</returns>
     public string EvenOdd(int num)
     {
-        // TODO : Determine if number is even or odd
+        // 5. TODO : Determine if number is even or odd
         throw new NotImplementedException();
     }
 
