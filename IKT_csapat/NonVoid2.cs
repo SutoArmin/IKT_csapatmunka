@@ -77,7 +77,7 @@
     /// <returns>The string "even" or the string "odd"</returns>
     public string EvenOdd(int num)
     {
-        // 5. TODO : Determine if number is even or odd
+        // 6. TODO : Determine if number is even or odd
         throw new NotImplementedException();
     }
 
